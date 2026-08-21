@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652716426213",
+    "project_id": "master-qrynova",
+    "storage_bucket": "master-qrynova.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652716426213:android:e891b2c45f6a7b8c9d0e1f",
+        "android_client_info": {
+          "package_name": "com.aistudio.qrynova.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy7kC_kKrlOPzrpB3qoCOMI5yp3B7GFjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

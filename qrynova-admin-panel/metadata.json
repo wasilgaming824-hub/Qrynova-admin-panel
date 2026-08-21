@@ -1,0 +1,6 @@
+{
+  "name": "QRYNOVA Admin",
+  "description": "Complete enterprise admin console for QRYNOVA with real-time Firestore control, user & credit management, generation queues, 10s ad gate controls, and Google Drive result delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
